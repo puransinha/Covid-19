@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # # This notebook tracks and Analyse the spread of the coronavirus(COVID-19) 🦠.
 # 
